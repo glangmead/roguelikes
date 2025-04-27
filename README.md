@@ -13,8 +13,8 @@ AKA "Troubles of Middle-Earth", later renamed in version 3 to "Tales of Maj'Eyal
 
 ## Issues
 
-* adom is not really playable because it makes the terminal background color black, but then uses black for some of the text in the UI!
-
+* In ADOM, I could not see some of the text at the bottom of the terminal. I had to to into Terminal prefs on the Mac itself and turn on "use bright colors for bold text" in the Text tab. It's analogous to [this issue in Gnome](https://www.reddit.com/r/ADOM/comments/qq6s7j/help_gnometerminal_doesnt_render_all_characters/) 
+ 
 ## Further reading
 
 * I recommend the book "Exploring Roguelike Games" by Mark Harris
