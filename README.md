@@ -14,7 +14,6 @@ AKA "Troubles of Middle-Earth", later renamed in version 3 to "Tales of Maj'Eyal
 ## Issues
 
 * adom is not really playable because it makes the terminal background color black, but then uses black for some of the text in the UI!
-* tome2 seems to only run at 80x24 size
 
 ## Further reading
 
